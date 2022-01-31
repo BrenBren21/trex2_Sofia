@@ -1,1 +1,1 @@
-# trex2_Sofia
+# PROC18_LP_AM1
